@@ -5,7 +5,7 @@
      <meta charset="UTF-8">
      <title>PHP基礎編</title>
  </head>
- 
+ <h1>タイトル</h1>
  <body>
      <p>この文章はHTMLで出力しています。</p>
      <p>
